@@ -1,0 +1,21 @@
+how to Validate the json
+==========================
+i am going to verify the data in json formate and beutify the data 
+and verifying the data
+
+vaalidate the response
+=======================
+we are going to validate response
+
+HTTp methods and Status code
+===============================
+
+Storing json response in key and value
+========================================
+ https://www.youtube.com/watch?v=EjivJAjEFtQ
+
+Different types of headers
+=============================
+
+Rest assured code for post and get methods
+======================================
